@@ -16,7 +16,7 @@
 title: GSoC @ InterMine
 email: gen-intermine-gsoc-public@lists.cam.ac.uk
 description: >- # Mini-site for InterMine's participation in Google Summer of Code as a mentor organisation.
-baseurl: "gsoc" # the subpath of your site, e.g. /blog
+baseurl: "/gsoc" # the subpath of your site, e.g. /blog
 url: "http://intermine.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: intermineorg
 github_username:  intermine
