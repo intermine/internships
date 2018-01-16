@@ -21,23 +21,25 @@ Browse through our GitHub repos to see more of our projects: https://github.co
 
 If you're interested in applying for [one of our projects](../../project-ideas/2018), drop an email to the people named in the project description to introduce yourself, and explain which of the project(s) you're interested in. There's already been quite a lot of interest in the Similarity project from multiple students, so you might want to consider one of the other projects as a backup if you think you'd particularly like InterMine.
 
+### Custom projects
+
+We're open to project proposals that aren't on this list. If you think you might have an idea that utilises the InterMine APIs, data, or codebase in some way, [contact us](http://intermine.readthedocs.io/en/latest/about/contact-us/) to discuss it.
+
 ### When you mail us, please make sure to include as many of the following as possible:
 
 - A CV / Resume. Tell us about yourself!
 - Links to GitHub, BitBucket, LinkedIn or similar.
 - Sample code. If you don't have GitHub/Bitbucket etc. we'd still like to see what you can do. A class coding assignment or personal project you're proud of is a great alternative.
-- A great way to familiarise yourself with the basics of building InterMine is to run through our tutorial: http://intermine.readthedocs.io/en/latest/get-started/tutorial/ - or alternatively you could try familiarising yourself with the web interface for your preferred InterMine. You can find the full list of InterMines at intermine.org, or try our experimental interface here: http://redgenes.apps.intermine.org/
-
+- A great way to familiarise yourself with the basics of building InterMine is to run through [our tutorial](http://intermine.readthedocs.io/en/latest/get-started/tutorial/) - or alternatively you could try familiarising yourself with the web interface for your preferred InterMine. You can find the full list of InterMines on our [InterMine Registry](http://registry.intermine.org/), or try our [experimental new interface](http://bluegenes.apps.intermine.org/). 
 - We've also set up a few tickets on the core InterMine repo with the tag "Good first bug" if you'd like to get your hands dirty. Pop a note on the ticket and make a pull request when you think you're ready. We have some guidelines for contributing that you should read before you make the pull request.
 
 Finally, if you have any ideas or questions, please don't hesitate to email us.
 
 ## Useful links:
 
-- Our twitter feed: https://twitter.com/intermineorg
-- Our developer mailing list. Joining link: https://lists.intermine.org/mailman/listinfo/dev Archive: https://lists.intermine.org/pipermail/dev/
-- Here's a blog post about some of the cool things the community has done with InterMine resources: https://intermineorg.wordpress.com/2016/11/22/cool-intermine-features-roundup/
- 
-- Our interactive web services docs: http://iodocs.apps.intermine.org/
-- Our very in-the-works new ClojureScript UI. Demo: http://bluegenes.apps.intermine.org/ repo: github.com/intermine/bluegenes
-- Developer documentation: http://intermine.readthedocs.io/en/latest/
+- We're [@intermineorg](https://twitter.com/intermineorg) on twitter.
+- Our developer mailing list. [Joining link](https://lists.intermine.org/mailman/listinfo/dev) and [Archive](https://lists.intermine.org/pipermail/dev/)
+- InterMine's blog. [Here's a blog post](https://intermineorg.wordpress.com/2016/11/22/cool-intermine-features-roundup/) about some of the cool things the community has done with InterMine resources. See also any [posts tagged with GSoC](https://intermineorg.wordpress.com/tag/gsoc/).
+- [Our interactive web services docs](http://iodocs.apps.intermine.org/)
+- Our very in-the-works new ClojureScript UI. [Demo](http://bluegenes.apps.intermine.org/), [repo](https://github.com/intermine/bluegenes)
+- [Developer documentation](http://intermine.readthedocs.io/en/latest/)
