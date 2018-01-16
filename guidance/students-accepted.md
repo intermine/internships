@@ -3,6 +3,10 @@ layout: page
 permalink: /guidance/students-accepted/
 ---
 
+# Advice for accepted students
+
+First of all, welcome to InterMine! We're excited to have you working with us this year.
+
 We'll try to generally adhere to the [Google Manuals](https://developers.google.com/open-source/gsoc/resources/guide) to avoid repetition, but here are a few InterMine-specific guidelines for Google Summer of Code.
 
 ## Communication
