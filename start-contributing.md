@@ -4,6 +4,8 @@ title: Start contributing
 permalink: /start-contributing/
 ---
 
+Here's a list of issues that should be suitable to make a start with InterMine. If you want to pick one up, comment on the issue so we know you're working on it! :)
+
 <script>
     //you don't want this to be the same as what I need, probably
     var settings = {
