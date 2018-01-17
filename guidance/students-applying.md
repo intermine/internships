@@ -19,7 +19,7 @@ Browse through our GitHub repos to see more of our projects: https://github.co
 
 ## Getting started:
 
-If you're interested in applying for [one of our projects](../../project-ideas/2018), drop an email to the people named in the project description to introduce yourself, and explain which of the project(s) you're interested in. There's already been quite a lot of interest in the Similarity project from multiple students, so you might want to consider one of the other projects as a backup if you think you'd particularly like InterMine.
+If you're interested in applying for [one of our projects](../../project-ideas/2018), drop an email to the people named in the project description to introduce yourself, and explain which of the project(s) you're interested in.
 
 ### Custom projects
 
@@ -38,6 +38,7 @@ Finally, if you have any ideas or questions, please don't hesitate to email us.
 ## Useful links:
 
 - We're [@intermineorg](https://twitter.com/intermineorg) on twitter.
+- Our discord server is at [chat.intermine.org](https://chat.intermine.org)
 - Our developer mailing list. [Joining link](https://lists.intermine.org/mailman/listinfo/dev) and [Archive](https://lists.intermine.org/pipermail/dev/)
 - InterMine's blog. [Here's a blog post](https://intermineorg.wordpress.com/2016/11/22/cool-intermine-features-roundup/) about some of the cool things the community has done with InterMine resources. See also any [posts tagged with GSoC](https://intermineorg.wordpress.com/tag/gsoc/).
 - [Our interactive web services docs](http://iodocs.apps.intermine.org/)
