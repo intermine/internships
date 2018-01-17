@@ -64,4 +64,8 @@ and plan to make up for lost days.
 
 We'd love to host blog posts about yourself, the work you're planning to do, or work you have done. Equally, if you're tweeting or blogging on a personal blog and would like us to link to it / mention you / etc., poke your mentor and we'll give you a shout-out.
 
+## Final Report
+
 Each student will present their project at the end of August at the InterMine Community Call - a friendly teleconference call held twice a month. The presentation will be limited to 5 minutes with a short time available for discussion after. Ideally this will be a live demonstration of your software project but can be slides or video demo instead. 
+
+Each student will also write up their project. The length and detail vary a great deal from project to project. Please coordinate with your mentor. We've had short blog posts that simply describe the project and provide links to the repo. Others have created detailed tutorials to use their software, and we've had others who wrote entire papers! This final report can be a blog post or a standalone site on github.
