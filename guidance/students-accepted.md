@@ -21,13 +21,13 @@ All students and mentors should subscribe to our [InterMine GSoC public mailing
 
 You can come hang at [chat.intermine.org](http://chat.intermine.org) in the #general channel, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
 
-### Writing code
+## Writing code
 
-#### Quality
+### Quality
 
 All code must be to a high standard, documented and well-commented, and accompanied by a unit test (where applicable).
 
-#### Source Control
+### Source Control
 
 We use GitHub for our source control, with a [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)-like branching model. New work is done in personal forked repo branches,  periodically merged into the upstream dev branch when it appears stable.  master contains only stable releases merged from dev.
 
@@ -35,7 +35,7 @@ You should follow a similar model - treat `github.com/intermine/yourproject` as 
 
 We'll fork your repo so there will always be an InterMine upstream.
 
-#### Licence
+### Licence
 
 If you're starting a brand new project, think about what **licence** you'd like.  It needs to be open source, obviously, but so long as it's a permissive open source licence like Apache, MIT, BSD, or LGPL, we'll probably be happy. Discuss it with your mentor before committing to a licence.
 
