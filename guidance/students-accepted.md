@@ -53,4 +53,4 @@ If you're starting a brand new project, think about what **licence** you'd like.
 
 We'd love to host blog posts about yourself, the work you're planning to do, or work you have done. Equally, if you're tweeting or blogging on a personal blog and would like us to link to it / mention you / etc., poke your mentor and we'll give you a shout-out.
 
-Each student will present their project at the end of August at the InterMine Community Call - a friendly teleconference call held twice a month. The presentation will be limited to 5 minutes with a short time available for discussion after. Ideally this will be a demonstration of your software project but can be slides instead. 
+Each student will present their project at the end of August at the InterMine Community Call - a friendly teleconference call held twice a month. The presentation will be limited to 5 minutes with a short time available for discussion after. Ideally this will be a live demonstration of your software project but can be slides or video demo instead. 
