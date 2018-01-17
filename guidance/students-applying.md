@@ -30,7 +30,7 @@ We're open to project proposals that aren't on this list. If you think you might
 - A CV / Resume. Tell us about yourself!
 - Links to GitHub, BitBucket, LinkedIn or similar.
 - Sample code. If you don't have GitHub/Bitbucket etc. we'd still like to see what you can do. A class coding assignment or personal project you're proud of is a great alternative.
-- A great way to familiarise yourself with the basics of building InterMine is to run through [our tutorial](http://intermine.readthedocs.io/en/latest/get-started/tutorial/) - or alternatively you could try familiarising yourself with the web interface for your preferred InterMine. You can find the full list of InterMines on our [InterMine Registry](http://registry.intermine.org/), or try our [experimental new interface](http://bluegenes.apps.intermine.org/). 
+- A great way to familiarise yourself with the basics of building InterMine is to run through [our tutorial](http://intermine.readthedocs.io/en/latest/get-started/tutorial/) - or alternatively you could try familiarising yourself with the web interface for your preferred InterMine. [FlyMine](http://flymine.readthedocs.io/en/latest/) is a popular mine for Fruit Fly data. You can find the full list of InterMines on our [InterMine Registry](http://registry.intermine.org/), or try our [experimental new interface](http://bluegenes.apps.intermine.org/). 
 - We've also set up a few tickets on the core InterMine repo with the tag "Good first bug" if you'd like to get your hands dirty. Pop a note on the ticket and make a pull request when you think you're ready. We have some guidelines for contributing that you should read before you make the pull request.
 
 Finally, if you have any ideas or questions, please don't hesitate to email us.
