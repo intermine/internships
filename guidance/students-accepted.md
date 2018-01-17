@@ -51,10 +51,12 @@ If you're starting a brand new project, think about what **licence** you'd like.
 
 ### Time commitment / Missed days
 
-From the Google manual:
+From the [Google Manual](https://developers.google.com/open-source/gsoc/resources/guide):
 
 ``` 
-GSoC needs an investment of about 30 hours a week. If you know in advance that you’ll need to take a couple of days of vacation/break during the Summer of Code, you should communicate that with your mentor beforehand and plan to make up for lost days.
+GSoC needs an investment of about 30 hours a week. If you know in advance that you’ll 
+need to take a couple of days of vacation/break during the Summer of Code, you should 
+communicate that with your mentor beforehand and plan to make up for lost days.
 ```
 
 ## Outreach
