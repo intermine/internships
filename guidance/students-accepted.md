@@ -21,6 +21,10 @@ All students and mentors should subscribe to our [InterMine GSoC public mailing
 
 You can come hang at [chat.intermine.org](http://chat.intermine.org) in the #general channel, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
 
+### Videoconferencing
+
+Most of our students met via videoconferencing software, e.g. Skype, once every one or two weeks. You may need to meet more (or less!) often throughout the project life cycle.
+
 ## Writing code
 
 ### Quality
