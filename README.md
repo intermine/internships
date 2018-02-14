@@ -1,9 +1,4 @@
 # gsoc
 InterMine GSoC informational mini-site for gsoc mentors and students
 
-Currently being built to-do:
-
-- add all projects
-- set up on gh-pages
-- add readme
-- add licence
+If you're a mentor and you'd like to modify or add a project, feel free to fork this repo and make a PR.
