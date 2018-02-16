@@ -16,7 +16,7 @@ If you'd like to start contributing to InterMine, you're welcome to do this anyt
 - [Help Wanted](https://github.com/intermine/bluegenes/labels/Help%20Wanted) in BlueGenes, our ClojureScript-based UI.
 - finally, if none of those suit you - have a look at any repository that interests you and see if you can think of an improvement on your own! 
 
-You can read more about Google Summer of Code 2017 with InterMine in [our blog](https://intermineorg.wordpress.com/tag/gsoc-2017/).
+You can read more about how Google Summer of Code went last year with InterMine in [our blog](https://intermineorg.wordpress.com/tag/gsoc-2017/).
 
 
 ## Mentors
