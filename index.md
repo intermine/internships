@@ -12,7 +12,7 @@ If you'd like to start contributing to InterMine, you're welcome to do this anyt
 
 - Issues labelled [good first bug](https://github.com/intermine/intermine/labels/good%20first%20bug) in InterMine - some of these don't require any coding so can be easy to get started.
 - Any of the issues in these two repos: (Linux / Mac users only). [bsbang-crawler](https://github.com/justinccdev/bsbang-crawler/issues/7) and [bsbang-frontend](https://github.com/justinccdev/bsbang-frontend/issues).
-- Any of the "todo" issues in [this project board](https://github.com/orgs/intermine/projects/1) - provided no-one has commented on the issue to say they're picking it up. If you're feeling brave, you could even review one of the PRs from the "to be tested" column. Please _do not_ comment on the issue when you do your review, but insteam either message Yo privately on Discord, or email yo@intermine.org with a link to the issue you've reviewed and your comments.
+- Any of the "todo" issues in [this project board](https://github.com/orgs/intermine/projects/1) - provided no-one has commented on the issue to say they're picking it up. If you're feeling brave, you could even review one of the PRs from the "to be tested" column. Please _do not_ comment on the issue when you do your review, but insteam either message Yo privately on the [Discord chat](https://discord.gg/h847Cex), or email yo@intermine.org with a link to the issue you've reviewed and your comments.
 - [Help Wanted](https://github.com/intermine/bluegenes/labels/Help%20Wanted) in BlueGenes, our ClojureScript-based UI.
 - finally, if none of those suit you - have a look at any repository that interests you and see if you can think of an improvement on your own! 
 
