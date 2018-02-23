@@ -5,7 +5,7 @@ permalink: /guidance/students-applying/
 
 # Application advice for students
 
-## About us:
+## About us
 
 [InterMine](http://intermine.org/) is an open source biological data warehouse, based in the University of Cambridge. There are nearly thirty instances of public InterMines, covering a range of subjects from organisms like mice and rats, mines dedicated to plants such as the soybean, insects like the fruitfly or bees and wasps, and even mines dedicated to mitochondrial DNA and discovering drug targets. You can see a full list in the [InterMine Registry](http://registry.intermine.org/), which incidentally was a project carried out by a GSoC 2017 student!
 
@@ -17,9 +17,9 @@ We use a range of languages in our projects, but most commonly you'll see Java, 
 
 Browse through our GitHub repos to see more of our projects: https://github.com/intermine
 
-## Getting started:
+## Getting started
 
-If you're interested in applying for [one of our projects](../../project-ideas/2018), drop an email to the people named in the project description to introduce yourself, and explain which of the project(s) you're interested in.
+If you're interested in applying for [one of our projects](../../project-ideas/2018), drop an email to the people named in the project description to introduce yourself, and explain which of the project(s) you're interested in and how you think you can contribute.
 
 ### Custom projects
 
@@ -35,7 +35,7 @@ We're open to project proposals that aren't on this list. If you think you might
 
 Finally, if you have any ideas or questions, please don't hesitate to email us.
 
-## Useful links:
+## Useful links
 
 - We're [@intermineorg](https://twitter.com/intermineorg) on twitter.
 - Our discord server is at [chat.intermine.org](https://chat.intermine.org)
