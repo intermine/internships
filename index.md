@@ -6,7 +6,7 @@ Welcome to the InterMine GSoC 2018 homepage!
 
 ## Students
 
-We're excited that you're interested in GSoC with InterMine! Feel free to browse our [project ideas list](project-ideas/2018/). If you're interested in a project, please email _both_ mentors listed for the project. We'll be happy to discuss the projects in more detail. 
+We're excited that you're interested in GSoC with InterMine! Feel free to browse our [project ideas list](project-ideas/2018/) and please review the [InterMine application guidelines](guidance/students-applying/). If you're interested in a project, please email _both_ mentors listed for the project. We'll be happy to discuss the projects in more detail. 
 
 If you'd like to start contributing to InterMine, you're welcome to do this anytime, not just GSoC! Check out these locations:
 
@@ -26,3 +26,4 @@ If you're an active InterMine user, developer, or maintainer, and you have an in
 
 - [The GSoC Student guide](https://google.github.io/gsocguides/student/)
 - [The GSoC Mentor guide](https://google.github.io/gsocguides/mentor/)
+- [GSoC Timeline](https://developers.google.com/open-source/gsoc/timeline)
