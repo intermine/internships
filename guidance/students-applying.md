@@ -25,6 +25,21 @@ If you're interested in applying for [one of our projects](../../project-ideas/2
 
 We're open to project proposals that aren't on this list. If you think you might have an idea that utilises the InterMine APIs, data, or codebase in some way, [contact us](http://intermine.readthedocs.io/en/latest/about/contact-us/) to discuss it.
 
+### Proposal Guidelines
+
+We expect to receive, as we did last year, lots of high quality applications. So please do give your application some thought!
+
+* Follow Google’s outline exactly:
+https://google.github.io/gsocguides/student/writing-a-proposal
+  * The “deliverables” section is most important!
+* A clear understanding of the problem we need solved.
+* A clear plan of action. What are you going to actually do?
+* Milestones should be achievable.
+* Things happen! We can’t foresee every problem! We are happy to see proposals that say “I will do A and B. If there is time, I will do C.”
+
+We are happy to read your proposal and give you feedback. Please allow for a few days for us to get back to you -- don’t wait until the last minute!
+
+
 ### When you mail us, please make sure to include as many of the following as possible:
 
 - A CV / Resume. Tell us about yourself!
