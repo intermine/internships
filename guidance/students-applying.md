@@ -11,7 +11,7 @@ permalink: /guidance/students-applying/
 
 We're interested in mentoring students with computer science, informatics (bioinformatics, cheminformatics, etc.) or computational biology experience or demonstrable interest.
 
-You don't have to be a biologist to work on InterMine related projects - many of the full time develAdd python to list of commonly seen languagesopers on the team didn't come from a biology background - but biological knowledge is an advantage.
+You don't have to be a biologist to work on InterMine related projects - many of the full time developers on the team didn't come from a biology background - but biological knowledge is an advantage.
 
 We use a range of languages in our projects, but most commonly you'll see Java, Python, SQL, Clojure/ClojureScript, and JavaScript. Each instance of InterMine has its own set of web services, and there are client libraries in [six different languages](http://intermine.readthedocs.io/en/latest/web-services/).
 
