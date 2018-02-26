@@ -34,7 +34,7 @@ https://google.github.io/gsocguides/student/writing-a-proposal
   * The “deliverables” section is most important!
 * A clear understanding of the problem we need solved.
 * A clear plan of action. What are you going to actually do?
-* Milestones should be achievable.
+* Milestones should be achievable and realistic.
 * Things happen! We can’t foresee every problem! We are happy to see proposals that say “I will do A and B. If there is time, I will do C.”
 
 We are happy to read your proposal and give you feedback. Please allow for a few days for us to get back to you -- don’t wait until the last minute!
