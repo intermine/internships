@@ -8,7 +8,7 @@ Welcome to the InterMine GSoC 2018 homepage!
 
 We're excited that you're interested in GSoC with InterMine! Feel free to browse our [project ideas list](project-ideas/2018/) and please review the [InterMine application guidelines](guidance/students-applying/). If you're interested in a project, please email _both_ mentors listed for the project. We'll be happy to discuss the projects in more detail. 
 
-If you'd like to start contributing to InterMine, you're welcome to do this anytime, not just GSoC! Check out these locations:
+For GSoC applications, your proposal is more important than making PRs or prototypes. However - if you'd like to start contributing to InterMine, you're welcome to do this anytime, not just GSoC! Check out these locations:
 
 - Issues labelled [good first bug](https://github.com/intermine/intermine/labels/good%20first%20bug) in InterMine - some of these don't require any coding so can be easy to get started.
 - Any of the issues in these two repos: (Linux / Mac users only). [bsbang-crawler](https://github.com/justinccdev/bsbang-crawler/issues/7) and [bsbang-frontend](https://github.com/justinccdev/bsbang-frontend/issues).
