@@ -1,7 +1,6 @@
 ---
-title: |
-    []{#_cwtx2jnzu0bp .anchor}InterMine - Google Summer of Code Terms and
-    Conditions
+layout: page
+permalink: /guidance/mentor-terms-and-conditions/
 ---
 
 -   [InterMine Obligations](#intermine-obligations)
