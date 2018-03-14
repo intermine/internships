@@ -1,5 +1,7 @@
 ---
 layout: page
+title: InterMine - Google Summer of Code Terms and
+    Conditions
 permalink: /guidance/mentor-terms-and-conditions/
 ---
 
