@@ -37,4 +37,4 @@ All students with a finalised proposal will have their proposals reviewed by one
 
 ## Accepted students
 
-Students will be notified of their acceptance by Google when all accepted students are announced, and will not be notified of their internal grades.
+Students will be notified of their acceptance by Google when all accepted students are announced, and will not be notified of their internal grades. Please note that we usually have more highly qualified applicants than slots available for the organisation, so sometimes proposals that are genuinely very good have to be rejected. We genuinely wish we could take you all!
