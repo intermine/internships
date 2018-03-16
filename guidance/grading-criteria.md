@@ -20,6 +20,7 @@ Once proposals have been finalised, student proposals will be graded based on th
 ## Resourcefulness 
 - Can the student carry out tasks on their own over a three month period? 
 - Lower points for gross overcommunication ("what should I name this variable?"), better if they quietly and competently get the job done but interact at appropriate times, e.g. InterMine bugs, sensible progress reports. 
+- Is the student capable of following existing guidelines and instructions where appropriate?
 
 ## Experience 
 
