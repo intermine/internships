@@ -10,3 +10,4 @@ permalink: /guidance/
 
 ## Mentors
 - [Guidance for mentors](mentors)
+- [GSoC Mentor Terms and Conditions](mentor-terms-and-conditions.md)
