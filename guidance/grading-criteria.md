@@ -15,6 +15,7 @@ Once proposals have been finalised, student proposals will be graded based on th
 
 ## Plan 
 - Does the proposal have a realistic timeline? 
+- Does the student have enought time in the week to carry our their plan?
 - Bonus for "what if things go wrong planning", e.g. bonus features towards the end of the plan that can be removed if/when the bugs strike.
 
 ## Resourcefulness 
