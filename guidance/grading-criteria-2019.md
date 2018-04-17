@@ -4,7 +4,7 @@ title: Student proposal grading criteria
 permalink: /guidance/grading-criteria/
 ---
 
-Quick note: These rules have been updated for 2019's GSoC. 2018's criteria are [here](grading-criteria-2018)
+Quick note: These rules have been updated for 2019's GSoC. 2018's criteria are [here](../grading-criteria-2018).
 
 # Criteria
 
