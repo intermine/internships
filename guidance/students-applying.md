@@ -37,6 +37,7 @@ https://google.github.io/gsocguides/student/writing-a-proposal
 * Milestones should be achievable and realistic.
 * Things happen! We can’t foresee every problem! We are happy to see proposals that say “I will do A and B. If there is time, I will do C.”
 * Read about our [grading criteria](grading-criteria.md) for proposals.
+* Read the proposal from one of our [successful 2018 applicants](https://github.com/nupurgunwant/GSoC-Proposal) to get an idea of what a good proposal might look like. 
 
 We are happy to read your proposal and give you feedback. Please allow for a few days for us to get back to you -- don’t wait until the last minute!
 
