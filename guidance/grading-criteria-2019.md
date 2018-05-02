@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student proposal grading criteria
-permalink: guidance/grading-criteria/
+permalink: /guidance/grading-criteria-2019/
 ---
 
 Quick note: These rules have been updated for 2019's GSoC. 2018's criteria are [here](../grading-criteria-2018).
