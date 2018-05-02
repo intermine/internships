@@ -7,7 +7,7 @@ permalink: /guidance/
 ## Students
 - [Advice on applying for GSoC with InterMine](students-applying)
 - [Guidelines for accepted students](students-accepted)
-- [Student proposal grading criteria](grading-criteria.md)
+- [Student proposal grading criteria](grading-criteria-2019.md)
 
 ## Mentors
 - [Guidance for mentors](mentors)
