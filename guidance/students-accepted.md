@@ -66,6 +66,22 @@ We'd love to host blog posts about yourself, the work you're planning to do, or
 
 ## Final Report
 
-Each student will present their project at the end of August at the InterMine Community Call - a friendly teleconference call held twice a month. The presentation will be limited to 5 minutes with a short time available for discussion after. Ideally this will be a live demonstration of your software project but can be slides or video demo instead. 
+Each student will present their project at the end of August at the InterMine Community Call - a friendly teleconference call attended by the InterMine community -- developers and biologists who use InterMine. The presentation will be limited to 5 minutes with a short time available for discussion after. Ideally this will be a live demonstration of your software project but can be slides or video demo instead. 
 
-Each student will also write up their project. The length and detail vary a great deal from project to project. Please coordinate with your mentor. We've had short blog posts that simply describe the project and provide links to the repo. Others have created detailed tutorials to use their software, and we've had others who wrote entire papers! This final report can be a blog post or a standalone site on github.
+Each student will also write up their project. This will take the form of a short blog post with the following sections:
+
+* Summary of project goals 
+  * Briefly restate what was in your project proposal.
+* Summary of project achievements
+  * What did you achieve?
+  * Screenshots and code snippets are a good idea!
+  * Acceptable to point to your other blog posts.
+  * Link to final tool, GitHub URL etc.
+* Self assessment 
+  * What could you have done better? Lessons learned?
+  * What are you particularly proud of?
+* Future work
+  * If you could work on your project longer, what features would you like to see added?
+  * What's left to do?
+
+This blog post will be "permanent" and will be used to submit to Google as your work product.
