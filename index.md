@@ -23,7 +23,7 @@ Check out these locations:
 - [Help Wanted](https://github.com/intermine/bluegenes/labels/Help%20Wanted) in BlueGenes, our ClojureScript-based UI.
 - The InterMine [Outreach repository](https://github.com/intermine/outreach/issues/), in particular the [ideas for newly interested InterMiners to try out](https://github.com/intermine/outreach/issues/12) ticket. 
 
-Finally, if none of those suit you we are happy to hear about your project ideas. Can you think of new features or improvements for InterMine? Maybe a new tutorial or data visualisation?
+Finally, if none of those suit you we are happy to hear about your project ideas. Can you think of new features or improvements for InterMine? Maybe a new tutorial or data visualisation? [Contact us](http://intermine.org/contact/) directly by email, or a good place to discuss is on our [chat server](http://chat.intermine.org) or our [public dev mailing list](https://lists.intermine.org/mailman/listinfo/dev).
 
 You can read more about how Google Summer of Code went in previous years with InterMine in [our blog](https://intermineorg.wordpress.com/tag/gsoc/).
 
