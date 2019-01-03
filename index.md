@@ -24,7 +24,7 @@ You can read more about how Google Summer of Code went in previous years with In
 
 ## Get started
 
-The "[How to apply](guidance/students-applying/)" section has details on how to apply for GSoC with InterMine.
+Review the [Application advice for students](guidance/students-applying/) section, which has details on how to apply for GSoC with InterMine.
 
 ## Contribute to InterMine! (outside of GSoC)
 
