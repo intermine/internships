@@ -35,9 +35,3 @@ Check out these locations:
 - Issues labelled [good first bug](https://github.com/intermine/intermine/labels/good%20first%20bug) in InterMine - some of these don't require any coding so can be easy to get started.
 - [Help Wanted](https://github.com/intermine/bluegenes/labels/Help%20Wanted) in BlueGenes, our ClojureScript-based UI.
 - The InterMine [Outreach repository](https://github.com/intermine/outreach/issues/), in particular the [ideas for newly interested InterMiners to try out](https://github.com/intermine/outreach/issues/12) ticket. 
-
-## Google links
-
-- [The GSoC Student guide](https://google.github.io/gsocguides/student/)
-- [The GSoC Mentor guide](https://google.github.io/gsocguides/mentor/)
-- [GSoC Timeline](https://developers.google.com/open-source/gsoc/timeline)
