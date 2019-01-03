@@ -2,20 +2,24 @@
 layout: home
 ---
 
-Welcome to the InterMine GSoC homepage!
+Welcome to the InterMine GSoC homepage! 
 
 ## Students
 
-We're excited that you're interested in GSoC with InterMine! Feel free to browse our [project ideas list](project-ideas/2018/) and please review the [InterMine application guidelines](guidance/students-applying/). If you're interested in a project, please email _all_ mentors listed for the project. We'll be happy to discuss the projects in more detail. 
+We're excited that you're interested in GSoC with InterMine!
 
-For GSoC applications, your proposal is more important than making PRs or prototypes. However - if you'd like to start contributing to InterMine, you're welcome to do this anytime, not just GSoC! 
+### Get started
 
-To get started:
-
-- Take the [FlyMine](https://flymine.readthedocs.io/en/latest/) tutorial. InterMine has lots of mines (see the [registry](http://registry.intermine.org/)), FlyMine is an InterMine instance loaded with fruit fly data. This is how people access data using InterMine using the web browser.
-- Take the [Python](https://github.com/intermine/intermine-ws-python-docs/) or [Perl](https://metacpan.org/pod/distribution/Webservice-InterMine/lib/Webservice/InterMine/Cookbook.pod) InterMine tutorials. InterMine has [client libraries](https://intermine.readthedocs.io/en/latest/web-services/) in Python, Perl, JavaScript, R and Java. This is how people access data using InterMine using the command line. 
+- Take the [FlyMine](https://flymine.readthedocs.io/en/latest/) tutorial or watch some helpful [videos](http://intermine.org/tutorials/). InterMine has lots of mines (see the [registry](http://registry.intermine.org/)), FlyMine is an InterMine instance loaded with fruit fly data. This is how people access data in an InterMine using the web browser.
+- Take the [Python](https://github.com/intermine/intermine-ws-python-docs/) or [Perl](https://metacpan.org/pod/distribution/Webservice-InterMine/lib/Webservice/InterMine/Cookbook.pod) InterMine tutorials. InterMine has [client libraries](https://intermine.readthedocs.io/en/latest/web-services/) in Python, Perl, JavaScript, R and Java. This is how people access data in an InterMine using the command line. 
 
 Now you have a pretty good idea of how people use InterMine to search genomic data!
+
+### Select a project
+
+Browse our [project ideas list](project-ideas/2018/) and please review the [InterMine application guidelines](guidance/students-applying/). If you're interested in a project, read the project description in detail and there should be a "Get started" section that will let you know what to do next. Please feel free to pop onto our GSoC channel on our [chat server](http://chat.intermine.org) if you get stuck or have questions.
+
+For GSoC applications, your proposal is more important than making PRs or prototypes. However - if you'd like to start contributing to InterMine, you're welcome to do this anytime, not just GSoC! 
 
 Check out these locations:
 
@@ -23,7 +27,7 @@ Check out these locations:
 - [Help Wanted](https://github.com/intermine/bluegenes/labels/Help%20Wanted) in BlueGenes, our ClojureScript-based UI.
 - The InterMine [Outreach repository](https://github.com/intermine/outreach/issues/), in particular the [ideas for newly interested InterMiners to try out](https://github.com/intermine/outreach/issues/12) ticket. 
 
-Finally, if none of those suit you we are happy to hear about your project ideas. Can you think of new features or improvements for InterMine? Maybe a new tutorial or data visualisation? [Contact us](http://intermine.org/contact/) directly by email, or a good place to discuss is on our [chat server](http://chat.intermine.org) or our [public dev mailing list](https://lists.intermine.org/mailman/listinfo/dev).
+
 
 You can read more about how Google Summer of Code went in previous years with InterMine in [our blog](https://intermineorg.wordpress.com/tag/gsoc/).
 
