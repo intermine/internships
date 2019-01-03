@@ -15,11 +15,14 @@ You don't have to be a biologist to work on InterMine related projects - many of
 
 We use a range of languages in our projects, but most commonly you'll see Java, Python, SQL, Clojure/ClojureScript, and JavaScript. Each instance of InterMine has its own set of web services, and there are client libraries in [six different languages](http://intermine.readthedocs.io/en/latest/web-services/).
 
-Browse through our GitHub repos to see more of our projects: https://github.com/intermine
+Browse through our GitHub repos to see more of our projects: [https://github.com/intermine]
 
 ## Getting started
 
-If you're interested in applying for [one of our projects](../../project-ideas/2018), drop an email to the people named in the project description to introduce yourself, and explain which of the project(s) you're interested in and how you think you can contribute.
+- Take the [FlyMine](https://flymine.readthedocs.io/en/latest/) tutorial or watch some helpful [videos](http://intermine.org/tutorials/). InterMine has lots of mines (see the [registry](http://registry.intermine.org/)), FlyMine is an InterMine instance loaded with fruit fly data. This is how people access data in an InterMine using the web browser.
+- Take the [Python](https://github.com/intermine/intermine-ws-python-docs/) or [Perl](https://metacpan.org/pod/distribution/Webservice-InterMine/lib/Webservice/InterMine/Cookbook.pod) InterMine tutorials. InterMine has [client libraries](https://intermine.readthedocs.io/en/latest/web-services/) in Python, Perl, JavaScript, R and Java. This is how people access data in an InterMine using the command line. 
+
+Now you have a pretty good idea of how people use InterMine to search genomic data!
 
 ### Custom projects
 
@@ -29,28 +32,14 @@ We're open to project proposals that aren't on this list. If you think you might
 
 We expect to receive, as we did last year, lots of high quality applications. So please do give your application some thought!
 
-* Follow Google’s outline exactly:
-https://google.github.io/gsocguides/student/writing-a-proposal
-  * The “deliverables” section is most important!
+* Follow the InterMine proposal template exactly!
 * A clear understanding of the problem we need solved.
 * A clear plan of action. What are you going to actually do?
 * Milestones should be achievable and realistic.
 * Things happen! We can’t foresee every problem! We are happy to see proposals that say “I will do A and B. If there is time, I will do C.”
-* Read about our [grading criteria](grading-criteria.md) for proposals.
 * Read the proposal from one of our [successful 2018 applicants](https://github.com/nupurgunwant/GSoC-Proposal) to get an idea of what a good proposal might look like. 
 
 We are happy to read your proposal and give you feedback. Please allow for a few days for us to get back to you -- don’t wait until the last minute!
-
-
-### When you mail us, please make sure to include as many of the following as possible:
-
-- A CV / Resume. Tell us about yourself!
-- Links to GitHub, BitBucket, LinkedIn or similar.
-- Sample code. If you don't have GitHub/Bitbucket etc. we'd still like to see what you can do. A class coding assignment or personal project you're proud of is a great alternative.
-- A great way to familiarise yourself with the basics of building InterMine is to run through [our tutorial](http://intermine.readthedocs.io/en/latest/get-started/tutorial/) - or alternatively you could try familiarising yourself with the web interface for your preferred InterMine. [FlyMine](http://flymine.readthedocs.io/en/latest/) is a popular mine for Fruit Fly data. You can find the full list of InterMines on our [InterMine Registry](http://registry.intermine.org/), or try our [experimental new interface](http://bluegenes.apps.intermine.org/). 
-- We've also set up a few tickets on the core InterMine repo with the tag "Good first bug" if you'd like to get your hands dirty. Pop a note on the ticket and make a pull request when you think you're ready. We have some guidelines for contributing that you should read before you make the pull request.
-
-Finally, if you have any ideas or questions, please don't hesitate to email us.
 
 ## Useful links
 
