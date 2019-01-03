@@ -24,7 +24,7 @@ You can read more about how Google Summer of Code went in previous years with In
 
 ## Get started
 
-Browse our [project ideas list](project-ideas/2018/) and review the [InterMine application guidelines](guidance/students-applying/). If you're interested in a specific project, read the project description in detail and there should be a "Get started" section that will let you know what to do next. Please feel free to pop onto the #GSoC channel on our [chat server](http://chat.intermine.org) if you get stuck or have questions.
+The "[How to apply](guidance/students-applying/)" section has details on how to apply for GSoC with InterMine.
 
 ## Contribute to InterMine! (outside of GSoC)
 
