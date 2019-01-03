@@ -20,6 +20,11 @@ We're open to project proposals that aren't on this list. If you think you might
 
 Now you have a pretty good idea of how people use InterMine to search genomic data!
 
+## Apply!
+
+- Here is the link to the proposal template.
+- The project description should have clear guidelines to help you write a successful proposal.
+
 ## Proposal Guidelines
 
 We expect to receive, as we did last year, lots of high quality applications. So please do give your application some thought!
