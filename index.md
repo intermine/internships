@@ -19,13 +19,6 @@ Now you have a pretty good idea of how people use InterMine to search genomic da
 
 Browse our [project ideas list](project-ideas/2018/) and please review the [InterMine application guidelines](guidance/students-applying/). If you're interested in a project, read the project description in detail and there should be a "Get started" section that will let you know what to do next. Please feel free to pop onto our GSoC channel on our [chat server](http://chat.intermine.org) if you get stuck or have questions.
 
-For GSoC applications, your proposal is more important than making PRs or prototypes. However - if you'd like to start contributing to InterMine, you're welcome to do this anytime, not just GSoC! 
-
-Check out these locations:
-
-- Issues labelled [good first bug](https://github.com/intermine/intermine/labels/good%20first%20bug) in InterMine - some of these don't require any coding so can be easy to get started.
-- [Help Wanted](https://github.com/intermine/bluegenes/labels/Help%20Wanted) in BlueGenes, our ClojureScript-based UI.
-- The InterMine [Outreach repository](https://github.com/intermine/outreach/issues/), in particular the [ideas for newly interested InterMiners to try out](https://github.com/intermine/outreach/issues/12) ticket. 
 
 
 
