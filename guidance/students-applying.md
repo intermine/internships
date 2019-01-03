@@ -42,3 +42,10 @@ We are happy to read your proposal and give you feedback. Please allow for a few
 - [Our interactive web services docs](http://iodocs.apps.intermine.org/)
 - Our very in-the-works new ClojureScript UI. [Demo](http://bluegenes.apps.intermine.org/), [repo](https://github.com/intermine/bluegenes)
 - [Developer documentation](http://intermine.readthedocs.io/en/latest/)
+
+## Google links
+
+- [The GSoC Student guide](https://google.github.io/gsocguides/student/)
+- [The GSoC Mentor guide](https://google.github.io/gsocguides/mentor/)
+- [GSoC Timeline](https://developers.google.com/open-source/gsoc/timeline)
+
