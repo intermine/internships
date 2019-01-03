@@ -3,8 +3,6 @@ layout: page
 permalink: /guidance/students-applying/
 ---
 
-# Application advice for students
-
 ## Getting started
 
 - Take the [FlyMine](https://flymine.readthedocs.io/en/latest/) tutorial or watch some helpful [videos](http://intermine.org/tutorials/). InterMine has lots of mines (see the [registry](http://registry.intermine.org/)), FlyMine is an InterMine instance loaded with fruit fly data. This is how people access data in an InterMine using the web browser.
