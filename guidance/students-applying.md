@@ -5,8 +5,6 @@ permalink: /guidance/students-applying/
 
 # Application advice for students
 
-
-
 ## Getting started
 
 - Take the [FlyMine](https://flymine.readthedocs.io/en/latest/) tutorial or watch some helpful [videos](http://intermine.org/tutorials/). InterMine has lots of mines (see the [registry](http://registry.intermine.org/)), FlyMine is an InterMine instance loaded with fruit fly data. This is how people access data in an InterMine using the web browser.
@@ -14,11 +12,11 @@ permalink: /guidance/students-applying/
 
 Now you have a pretty good idea of how people use InterMine to search genomic data!
 
-### Custom projects
+## Custom projects
 
 We're open to project proposals that aren't on this list. If you think you might have an idea that utilises the InterMine APIs, data, or codebase in some way, [contact us](http://intermine.readthedocs.io/en/latest/about/contact-us/) to discuss it.
 
-### Proposal Guidelines
+## Proposal Guidelines
 
 We expect to receive, as we did last year, lots of high quality applications. So please do give your application some thought!
 
