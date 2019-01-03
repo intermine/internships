@@ -20,6 +20,8 @@ Browse through our GitHub repos to see more of our projects: [https://github.c
 
 InterMine is a mature stable software package used by thousands of scientists around the world. The InterMine team are deeply passionate about open source and open science. You'll be solving fun problems using technology.
 
+You can read more about how Google Summer of Code went in previous years with InterMine in [our blog](https://intermineorg.wordpress.com/tag/gsoc/).
+
 ## Get started
 
 Browse our [project ideas list](project-ideas/2018/) and review the [InterMine application guidelines](guidance/students-applying/). If you're interested in a specific project, read the project description in detail and there should be a "Get started" section that will let you know what to do next. Please feel free to pop onto the #GSoC channel on our [chat server](http://chat.intermine.org) if you get stuck or have questions.
@@ -34,9 +36,7 @@ Check out these locations:
 - [Help Wanted](https://github.com/intermine/bluegenes/labels/Help%20Wanted) in BlueGenes, our ClojureScript-based UI.
 - The InterMine [Outreach repository](https://github.com/intermine/outreach/issues/), in particular the [ideas for newly interested InterMiners to try out](https://github.com/intermine/outreach/issues/12) ticket. 
 
-You can read more about how Google Summer of Code went in previous years with InterMine in [our blog](https://intermineorg.wordpress.com/tag/gsoc/).
-
-## Other useful links:
+## Google links
 
 - [The GSoC Student guide](https://google.github.io/gsocguides/student/)
 - [The GSoC Mentor guide](https://google.github.io/gsocguides/mentor/)
