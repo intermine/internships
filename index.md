@@ -13,7 +13,7 @@ For GSoC applications, your proposal is more important than making PRs or protot
 To get started:
 
 - Take the [FlyMine](https://flymine.readthedocs.io/en/latest/) tutorial. InterMine has lots of mines (see the [registry](http://registry.intermine.org/)), FlyMine is an InterMine instance loaded with fruit fly data. This is how people access data using InterMine using the web browser.
-- Take the [Python](https://github.com/intermine/intermine-ws-python-docs/) or [Perl](https://metacpan.org/pod/distribution/Webservice-InterMine/lib/Webservice/InterMine/Cookbook.pod) InterMine tutorials. InterMine has [client libraries](https://intermine.readthedocs.io/en/latest/web-services/) in Python, Perl, JavaScript and Java. This is how people access data using InterMine using the command line. 
+- Take the [Python](https://github.com/intermine/intermine-ws-python-docs/) or [Perl](https://metacpan.org/pod/distribution/Webservice-InterMine/lib/Webservice/InterMine/Cookbook.pod) InterMine tutorials. InterMine has [client libraries](https://intermine.readthedocs.io/en/latest/web-services/) in Python, Perl, JavaScript, R and Java. This is how people access data using InterMine using the command line. 
 
 Now you have a pretty good idea of how people use InterMine to search genomic data!
 
