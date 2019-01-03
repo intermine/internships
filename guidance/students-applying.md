@@ -3,12 +3,18 @@ layout: page
 permalink: /guidance/students-applying/
 ---
 
+# Application advice for students
+
 ## Getting started
 
 - Take the [FlyMine](https://flymine.readthedocs.io/en/latest/) tutorial or watch some helpful [videos](http://intermine.org/tutorials/). InterMine has lots of mines (see the [registry](http://registry.intermine.org/)), FlyMine is an InterMine instance loaded with fruit fly data. This is how people access data in an InterMine using the web browser.
 - Take the [Python](https://github.com/intermine/intermine-ws-python-docs/) or [Perl](https://metacpan.org/pod/distribution/Webservice-InterMine/lib/Webservice/InterMine/Cookbook.pod) InterMine tutorials. InterMine has [client libraries](https://intermine.readthedocs.io/en/latest/web-services/) in Python, Perl, JavaScript, R and Java. This is how people access data in an InterMine using the command line. 
 
 Now you have a pretty good idea of how people use InterMine to search genomic data!
+
+## Select a project
+
+Browse our [project ideas list](project-ideas/2018/). If you're interested in a specific project, read the project description in detail and there should be a "Get started" section that will let you know what to do next. Please feel free to pop onto the #GSoC channel on our [chat server](http://chat.intermine.org) if you get stuck or have questions.
 
 ## Custom projects
 
