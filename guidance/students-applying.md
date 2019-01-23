@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /guidance/students-applying/
+title: Advice for students applying to InterMine
 ---
 
 ## Select a project
