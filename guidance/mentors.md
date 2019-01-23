@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /guidance/mentors/
+title: Guidance for Mentors
 ---
-
-# Guidance for Mentors
 
 Please see the [Guidance for accepted students](students-accepted.md) for general student expectations. Mentors based onsite at Cambridge will provide weekly updates at the team meeting.
 
