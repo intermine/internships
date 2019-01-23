@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /guidance/students-accepted/
+title: Advice for accepted students
 ---
-
-# Advice for accepted students
 
 First of all, welcome to InterMine! We're excited to have you working with us this year.
 
