@@ -28,10 +28,4 @@ Review the [Application advice for students](guidance/students-applying/) sectio
 
 ## Contribute to InterMine! (outside of GSoC)
 
-For GSoC applications, your proposal is more important than making PRs or prototypes. However - if you'd like to start contributing to InterMine, you're welcome to do this anytime, not just GSoC! 
-
-Check out these locations:
-
-- Issues labelled [good first bug](https://github.com/intermine/intermine/labels/good%20first%20bug) in InterMine - some of these don't require any coding so can be easy to get started.
-- [Help Wanted](https://github.com/intermine/bluegenes/labels/Help%20Wanted) in BlueGenes, our ClojureScript-based UI.
-- The InterMine [Outreach repository](https://github.com/intermine/outreach/issues/), in particular the [ideas for newly interested InterMiners to try out](https://github.com/intermine/outreach/issues/12) ticket. 
+For GSoC applications, your proposal is more important than making PRs or prototypes. However - if you'd like to start contributing to InterMine, you're welcome to do this anytime, not just GSoC! We have a list of available issues to pick up in the [InterMine contributing guide](http://intermine.org/contributing)
