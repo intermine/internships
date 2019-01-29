@@ -6,7 +6,7 @@ title: Advice for students applying to InterMine
 
 ## Select a project
 
-Browse our [project ideas list](../project-ideas/2018/). If you're interested in a specific project, read the project description in detail and there should be a "Get started" section that will let you know what to do next. Please feel free to pop onto the #GSoC channel on our [chat server](http://chat.intermine.org) if you get stuck or have questions.
+Browse our [project ideas list](../project-ideas/2019/). If you're interested in a specific project, read the project description in detail and there should be a "Get started" section that will let you know what to do next. Please feel free to pop onto the #GSoC channel on our [chat server](http://chat.intermine.org) if you get stuck or have questions.
 
 ### Custom projects
 
