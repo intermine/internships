@@ -19,12 +19,6 @@ We're open to project proposals that aren't on this list. If you think you might
 
 Now you have a pretty good idea of how people use InterMine to search genomic data!
 
-### Further documentation
-
-- Spend a few minutes playing around with the [InterMine API](http://iodocs.apps.intermine.org/). Most people use the client libraries and do not access the API directly. 
-- Most projects will use the InterMine [registry](http://registry.intermine.org/), so know it's there!
-- If you are going to be working on a Java project, you might want to build your own InterMine. Here's [how](https://intermine.readthedocs.io/en/latest/get-started/tutorial/).
-
 ## Apply!
 
 - Here is the link to the proposal template.
