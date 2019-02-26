@@ -15,14 +15,14 @@ We're open to project proposals that aren't on this list. If you think you might
 ## Getting started
 
 - Take the [FlyMine](https://flymine.readthedocs.io/en/latest/) tutorial or watch some helpful [videos](http://intermine.org/tutorials/). InterMine has lots of mines (see the [registry](http://registry.intermine.org/)), FlyMine is an InterMine instance loaded with fruit fly data. This is how people access data in an InterMine using the web browser.
-- Take the [Python](https://github.com/intermine/intermine-ws-python-docs/) or [Perl](https://metacpan.org/pod/distribution/Webservice-InterMine/lib/Webservice/InterMine/Cookbook.pod) InterMine tutorials. InterMine has [client libraries](https://intermine.readthedocs.io/en/latest/web-services/) in Python, Perl, JavaScript, R and Java. This is how people access data in an InterMine using the command line. 
+- Take the [Python](https://github.com/intermine/intermine-ws-python-docs/) or [Perl](https://metacpan.org/pod/distribution/Webservice-InterMine/lib/Webservice/InterMine/Cookbook.pod) InterMine tutorials. InterMine has [client libraries](https://intermine.readthedocs.io/en/latest/web-services/) in Python, Perl, JavaScript, R and Java. This is how people access data in an InterMine using the command line. We also have an early [JavaScript tutorial](https://hackmd.io/QvITbTCSQkKWYjE2i_Xj_w#) under development. 
 
 Now you have a pretty good idea of how people use InterMine to search genomic data!
 
 ## Apply!
 
-- Here is the link to the proposal template.
-- The project description should have clear guidelines to help you write a successful proposal.
+- We have an [InterMine proposal template](https://docs.google.com/document/d/1rvZG5SDqdvSTBxLrVy0JbVbs0A42rHToJwxHd89Hftc/edit) that we recommend you use. 
+- Your project description should have clear guidelines to help you write a successful proposal.
 
 ## Proposal Guidelines
 
