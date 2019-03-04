@@ -42,7 +42,7 @@ We are happy to read your proposal and give you feedback. Please allow for a few
 - We're [@intermineorg](https://twitter.com/intermineorg) on twitter.
 - We have a [GSoC specific mailing list](https://lists.cam.ac.uk/mailman/listinfo/gen-intermine-gsoc-public) - feel free to ask any questions! 
 - Our discord server is at [chat.intermine.org](https://chat.intermine.org)
-- Our developer mailing list. [Joining link](https://lists.intermine.org/mailman/listinfo/dev) and [Archive](https://lists.intermine.org/pipermail/dev/)
+- InterMine developer mailing list. [Joining link](https://lists.intermine.org/mailman/listinfo/dev) and [Archive](https://lists.intermine.org/pipermail/dev/) (please use the InterMine GSoC mailing list for GSoC related issues)
 - InterMine's blog. [Here's a blog post](https://intermineorg.wordpress.com/2016/11/22/cool-intermine-features-roundup/) about some of the cool things the community has done with InterMine resources. See also any [posts tagged with GSoC](https://intermineorg.wordpress.com/tag/gsoc/).
 - [Our interactive web services docs](http://iodocs.apps.intermine.org/)
 - Our very in-the-works new ClojureScript UI. [Demo](http://bluegenes.apps.intermine.org/), [repo](https://github.com/intermine/bluegenes)
