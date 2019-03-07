@@ -1,6 +1,7 @@
 ---
 layout: page
 title: imjs and im-tables GSoC project
+permalink: /project-ideas/2019/detailed-specs/upgrade-imjs-and-imtables
 ---
 
 ## Background:
