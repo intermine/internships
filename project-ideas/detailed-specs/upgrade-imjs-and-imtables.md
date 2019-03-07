@@ -32,7 +32,7 @@ im-tables was last updated in late 2014 or early 2015, and right now the only wa
 2. Clone [imjs](https://github.com/intermine/imjs) and [im-tables](https://github.com/intermine/im-tables). 
     -  You might want to use [nvm](https://github.com/creationix/nvm) to manage your node version, if you don't already. 
 3. Follow the set-up instructions for each repo and take a look through the code. Don't worry if you can't get im-tables to build! It requires a very old version of node. If you really like, you use nvm to try to roll back to an old version of node - maybe v0.10? - and see if that fixes the build. 
-4. **Start thinking about your project plan** Use the repos you've installed to explore the features we've discussed above so you can get a feeling for the things we'd like you to address. How long do you think each task might take and what would your preferred approach be? 
+4. **Start thinking about your project proposal**: Use the repos you've installed to explore the features we've discussed above so you can get a feeling for the things we'd like you to address. How long do you think each task might take and what would your preferred approach be? You can discuss this with mentors and/or start writing your proposal. Always share our proposal drafts with your mentors so they can offer feedback, and take a look through [our advice for applications](http://intermine.org/gsoc/guidance/students-applying/) to find tips and a proposal template. 
 
 ## Need help? Questions? 
 
