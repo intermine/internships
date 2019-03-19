@@ -24,7 +24,9 @@ im-tables was last updated in late 2014 or early 2015, and right now the only wa
     - or maybe we can just upgrade browserify! 
 - Pure Javascript is probably easier to maintain, and ES2015 supports a lot of the features that made coffeescript popular. It might be nice to use [Decaffeinate](https://github.com/decaffeinate/decaffeinate) to migrate to javascript instead. 
 - Better documentation. We have a few examples of imjs in use ([demo](http://intermine.org/imjs/examples/), [code](https://github.com/intermine/imjs/tree/dev/docs/examples)), but it would be nice to add other methods and maybe link to them directly from [our api docs](http://intermine.org/imjs/).
-- Any open issues in the GitHub repos. 
+- Any open issues in the GitHub repos, such as:
+  - [im-tables: add logarithmic view to numeric column summaries](https://github.com/intermine/im-tables/issues/176)
+  - [imjs: fix bundled CORS error] (https://github.com/intermine/imjs/issues/19)
 
 ## Getting started
 
