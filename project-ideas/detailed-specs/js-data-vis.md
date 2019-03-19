@@ -16,7 +16,7 @@ InterMine provides large amounts of data, and we'd like to add some more data vi
  - [BioJS MSA viewer](https://github.com/wilzbach/msa)
     - This would show on a gene list page and pass FASTA sequences for each gene to the msa viewer. FASTA for lists is available via the [web services](http://iodocs.apps.intermine.org/). 
  - a [3d Protein visualiser](https://www.npmjs.com/package/bio-pv)
-    - Most InterMines don't have pdb ids associated with their proteins. This can be fetched via [the PBD search REST API](http://www.rcsb.org/pages/webservices/rest-search#search). Once the pdb id is determined the pdb files can be downloaded from the [PDB download service](http://www.rcsb.org/pages/download/http#structures), and then passed to the visualiser. 
+    - Most InterMines don't have pdb ids associated with their proteins. This pdb id can be fetched by passing a protein's primary accession to [the PBD search REST API](http://www.rcsb.org/pages/webservices/rest-search#search) (selecting the UniProtKB Accession Number(s) endpoint). Once the pdb id is determined the pdb files can be downloaded from the [PDB download service](http://www.rcsb.org/pages/download/http#structures), and then passed to the visualiser. 
  - [Volcano plots](https://en.wikipedia.org/wiki/Volcano_plot_(statistics))
  - [Manhattan plots](https://en.wikipedia.org/wiki/Manhattan_plot)
  - [Box plots](http://www.physics.csbsju.edu/stats/box2.html)
