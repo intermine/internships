@@ -30,6 +30,8 @@ Build a javascript based tool designed to sit on BlueGenes list pages (e.g. a pa
             - Node fill style.
         - When filters update, the graph should adjust seamlessly rather than completely re-drawing. 
         - All colour-based attributes should be from a [colourblind-friendly palette](http://colorbrewer2.org/#type=diverging&scheme=BrBG&n=3). ([why this is important](https://venngage.com/blog/color-blind-friendly-palette/))
+        
+Here are examples of some of the queries we may be filtering on: [https://docs.google.com/document/d/1daRcIDb3AUm3xNnpckYDKPkV38ngpv77pif6PT9Tx_o/edit#heading=h.fi7onnjgbvfx](https://docs.google.com/document/d/1daRcIDb3AUm3xNnpckYDKPkV38ngpv77pif6PT9Tx_o/edit#heading=h.fi7onnjgbvfx)
 
 ## Getting started
 
