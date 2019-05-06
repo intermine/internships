@@ -18,7 +18,7 @@ All students and mentors should subscribe to our [InterMine GSoC public mailing
 
 ### Chat
 
-You can come hang at [chat.intermine.org](http://chat.intermine.org) in the #general channel, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
+You can come hang at [chat.intermine.org](http://chat.intermine.org) in the #gsoc channel, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
 
 ### Videoconferencing
 
@@ -52,12 +52,8 @@ If you're starting a brand new project, think about what **licence** you'd like.
 
 From the [Google Manual](https://developers.google.com/open-source/gsoc/resources/guide):
 
-``` 
-GSoC needs an investment of about 30 hours a week. If you know in advance
-that you’ll need to take a couple of days of vacation/break during the 
-Summer of Code, you should communicate that with your mentor beforehand 
-and plan to make up for lost days.
-```
+
+>GSoC needs an investment of about 30 hours a week. If you know in advance that you’ll need to take a couple of days of vacation/break during the Summer of Code, you should communicate that with your mentor beforehand and plan to make up for lost days.
 
 ## Outreach
 
