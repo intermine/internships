@@ -132,5 +132,4 @@ What to do if there is a problem
 
 Please contact an organisation administrator. In the first instance,
 this is Yo Yehudi - [*yo@intermine.org*](mailto:yo@intermine.org). If
-she’s non-responsive, or your issue is with her, please speak to Julie
-Sullivan - [*julie@intermine.org*](mailto:julie@intermine.org)
+she’s non-responsive, or your issue is with her, please speak to Daniela Butano - [*daniela@intermine.org*](mailto:daniela@intermine.org)
