@@ -5,7 +5,7 @@ note: This template is also available via HackMD - https://hackmd.io/@yoyehudi/H
 
 # GSoC cohort kick-off call
 
-**Time/date:** [ Add date ]
+**Time/date:** [ Add date ]  
 **Other timezones:** [ add link to http://arewemeetingyet.com/ time ]
 
 ## Joining the call: 
