@@ -4,7 +4,7 @@ tags: GSoC, InterMine, GSoC-template
 
 # GSoC cohort call: What makes code good + code review practice
 
-**Time/date:** [ Add date ]
+**Time/date:** [ Add date ]  
 **Other timezones:** [ add link to http://arewemeetingyet.com/ time ]
 
 ## Joining the call: 
