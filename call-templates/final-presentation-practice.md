@@ -1,5 +1,6 @@
 ---
 tags: GSoC, InterMine, GSoC-template
+note: This template is also available on hackmd: https://hackmd.io/@yoyehudi/r1D4lxtPB 
 ---
 
 # GSoC cohort call: Final presentation practice
