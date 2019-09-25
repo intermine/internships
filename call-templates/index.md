@@ -2,7 +2,7 @@
 
 In order to give students a good sense of community, and to help them learn about the software they'll be working on, we run several full-group calls throughout GSoC. We use [Zoom](https://zoom.us/) for this, primarily because it allows us to break up community calls into smaller breakout groups for discussions. 
 
-{toc}
+{:toc}
 
 ## Application period: GSoC webinar
 
