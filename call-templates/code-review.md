@@ -1,15 +1,14 @@
 ---
 tags: GSoC, InterMine, GSoC-template
-note: This tempalte is also available via HackMD: https://hackmd.io/@yoyehudi/BJ8cvpvwS
 ---
 
 # GSoC cohort call: What makes code good + code review practice
 
-**Time/date:** < Add date >
-**Other timezones:** < add link to http://arewemeetingyet.com/ time >
+**Time/date:** [ Add date ]
+**Other timezones:** [ add link to http://arewemeetingyet.com/ time ]
 
 ## Joining the call: 
-<Add videoconference link> 
+[Add videoconference link] 
 Once you've joined the call:
 - Add your name to the attendee list below 
 - Don't forget to turn on your webcam! :) 
@@ -25,21 +24,21 @@ Attendees: Name / Student or Mentor? / Project / Twitter / GitHub / [Emoji mood]
 - 
 -  
 
-Icebreaker question: <e.g. What’s your favourite dinosaur (or prehistoric animal) and why? >
-- [name=Your Name] < answer>
-- [name=Your Name] < answer>
-- [name=Your Name] < answer>
-- [name=Your Name] < answer>
+Icebreaker question: [e.g. What’s your favourite dinosaur (or prehistoric animal) and why? ]
+- [name=Your Name] [ answer]
+- [name=Your Name] [ answer]
+- [name=Your Name] [ answer]
+- [name=Your Name] [ answer]
 
 ## Agenda
 
 ### Introduction (Call host)
 _(5 minutes)_
- - Reminder: Code of Conduct! <Link to code of conduct>
+ - Reminder: Code of Conduct! [Link to code of conduct]
       - Generally: please treat others with respect and kindness, no matter who they are. We know you do this already! 
       - If you have any issues, please speak to:
-        - <add contact name and email>
-        - <add contact name and email>
+        - [add contact name and email]
+        - [add contact name and email]
 - Today’s call will cover giving feedback, code good practice, and code review. **Bring the URL of a GitHub repo you’ve been working on for GSoC!**
 
 ## What makes code “good” or “bad”? 
@@ -47,15 +46,15 @@ _(10 minutes)_
 Think back to the last group call, where we made a list of things good open source practices as well as the train-wrecks we’d encountered. Could any of those apply to a code review session? Try to think of more, focusing on technical issues such as code quality, git commits, documentation, etc.
 
 ### ✏️ Things you never want to see in a code repo 🙅‍♀️ (but maybe have):
-- <list a thing>
-- <list a thing>
-- <list a thing>
-- <list a thing>
+- [list a thing]
+- [list a thing]
+- [list a thing]
+- [list a thing]
 ### ✏️ Things that make a code repo really easy to work with, update, run 👌: 
-- <list a thing>
-- <list a thing>
-- <list a thing>
-- <list a thing>
+- [list a thing]
+- [list a thing]
+- [list a thing]
+- [list a thing]
 
 ## 💬 Breakout rooms: Code review practice
 We’ll start by reviewing code that isn’t written by anyone in the group. Groups of 2-3. 
@@ -77,25 +76,25 @@ _(15 minutes)_
 _(15 minutes)_ - Silent writing.
 
 ### ✏️ What is feedback?
-- [name=Name here] - <answer>
-- [name=Name here] - <answer>
-- [name=Name here] - <answer>
+- [name=Name here] - [answer]
+- [name=Name here] - [answer]
+- [name=Name here] - [answer]
 
 ### ✏️ How do you feel when you’re expecting to receive feedback? 
-- [name=Name here] - <answer>
-- [name=Name here] - <answer>
-- [name=Name here] - <answer>
+- [name=Name here] - [answer]
+- [name=Name here] - [answer]
+- [name=Name here] - [answer]
 
 ### ✏️ What happens when we only give negative feedback?
-- [name=Name here] - <answer>
-- [name=Name here] - <answer>
-- [name=Name here] - <answer>
+- [name=Name here] - [answer]
+- [name=Name here] - [answer]
+- [name=Name here] - [answer]
 
 
 ### ✏️ What about when we only give positive feedback? 
-- [name=Name here] - <answer>
-- [name=Name here] - <answer>
-- [name=Name here] - <answer>
+- [name=Name here] - [answer]
+- [name=Name here] - [answer]
+- [name=Name here] - [answer]
 
 ### ✏️ What are your tips for giving feedback? 
 
