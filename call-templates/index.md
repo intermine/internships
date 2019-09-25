@@ -15,7 +15,8 @@ During the application period, we usually run a recorded call for all interested
 Accepted students are invited to participate in the following calls:  
 
 ### Month one: **GSoC kick-off** 
-  - Attending: students, as many mentors as possible
+ **Who attends:** students, as many mentors as possible
+ **Call template:** [GitHub](kick-off-call) [HackMD](https://hackmd.io/@yoyehudi/Hk3wd-ZPr)
   - Tell the students about 
     - the org and general roadmap
     - working policies for the next few months
@@ -23,14 +24,16 @@ Accepted students are invited to participate in the following calls:
   - group activity: students discuss good and bad things they've encountered in open source and/or software development. This aims to get students thinking about good practices for their own repos. 
 
 ### Month two: **Coding good practices, providing feedback, and code review** 
-  - Attending: students, mentors optional but welcome
+ **Who attends:**  students, mentors optional but welcome  
+ **Call template:** []
   - Group discussion: What makes code good? What makes it awful? 
   - Break-out room: students begin by reviewing code of _others_ (i.e. repos that don't belong to the org) in groups of 2-3.
   - Giving feedback: As a group we discuss the importance of giving both positive and negative feedback, and how to do so effectively and compassionately. 
   - Break-out room: In groups of 2-3, students bring one of their own repos that they've been working on, and provide each other with feedback. 
 
 ### Month three: **Practice for final presentations**  
-  - Attending: Mentors aren't invited to this call, just to give students a safe space to practice with the team. 
+**Who attends:**  Mentors aren't invited to this call, just to give students a safe space to practice with the team. 
+**Call template:** 
   - Students are reminded of the feedback exerise we did last call
   - Students present for five minutes, practicing what they'll share with the whole InterMine community at the end of the month
     - Each other student provides one bit of positive feedback and one suggestion to improve for each talk. 
