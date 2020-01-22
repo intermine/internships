@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome to the InterMine GSoC homepage! We're excited that you're interested in GSoC with InterMine! 
+Welcome to the InterMine internships homepage! We're excited that you're interested in an internship with InterMine! 
 
 ## About InterMine
 
@@ -20,12 +20,12 @@ Browse through our GitHub repos to see more of our projects: [https://github.c
 
 InterMine is a mature stable software package used by thousands of scientists daily around the world. The InterMine team are deeply passionate about open source and open science, and InterMine has a vibrant community. You'll get valuable experience solving real world problems using modern tools. 
 
-You can read more about how Google Summer of Code went in previous years with InterMine in [our blog](https://intermineorg.wordpress.com/tag/gsoc/).
+You can read more about how Google Summer of Code went in previous years with InterMine in [our blog](https://intermineorg.wordpress.com/tag/gsoc/). We are participating in [Outreachy](https://www.outreachy.org/) for the first time this year with a goal to increase diversity in technology. If you belong to a community that is underrepresented in tech, you should definitely apply.
 
 ## Get started
 
-Review the [Application advice for students](guidance/students-applying/) section, which has details on how to apply for GSoC with InterMine.
+Review the application advice for students section, which has details on how to apply for [GSoC]((guidance/students-applying-gsoc/)) and [Outreachy](guidance/students-applying-outreachy/) with InterMine.
 
-## Contribute to InterMine! (outside of GSoC)
+## Contribute to InterMine! (outside of GSoC and Outreachy)
 
-For GSoC applications, your proposal is more important than making PRs or prototypes. However - if you'd like to start contributing to InterMine, you're welcome to do this anytime, not just GSoC! We have a list of available issues to pick up in the [InterMine contributing guide](http://intermine.org/contributing)
+For GSoC applications, your proposal is more important than making PRs or prototypes. However - if you'd like to start contributing to InterMine, you're welcome to do this anytime, not just GSoC and Outreachy! We have a list of available issues to pick up in the [InterMine contributing guide](http://intermine.org/contributing)

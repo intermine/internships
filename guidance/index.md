@@ -5,7 +5,8 @@ permalink: /guidance/
 ---
 
 ## Students
-- [Advice on applying for GSoC with InterMine](students-applying)
+- [Advice on applying for GSoC with InterMine](students-applying-gsoc)
+- [Advice on applying for Outreachy with InterMine](students-applying-outreachy)
 - [Guidelines for accepted students](students-accepted)
 - [Student proposal grading criteria](grading-criteria-2019.md)
 
