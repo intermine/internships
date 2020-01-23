@@ -52,7 +52,7 @@ We expect to receive, as we did last year, lots of high quality applications. So
 
 - We're [@intermineorg](https://twitter.com/intermineorg) on twitter.
 <!-- - We have a [Outreachy specific mailing list](https://lists.cam.ac.uk/mailman/listinfo/gen-intermine-gsoc-public) - feel free to ask any questions!  -->
-<!-- - We have a #Outreachy channel on our discord server at [chat.intermine.org](https://chat.intermine.org).  -->
+- We have a #gsoc-and-outreachy channel on our discord server at [chat.intermine.org](https://chat.intermine.org). 
 - InterMine developer mailing list. [Joining link](https://lists.intermine.org/mailman/listinfo/dev) and [Archive](https://lists.intermine.org/pipermail/dev/) 
 <!-- -- _please use the InterMine Outreachy mailing list for Outreachy related issues_ -->
 - InterMine's blog. [Here's a blog post](https://intermineorg.wordpress.com/2016/11/22/cool-intermine-features-roundup/) about some of the cool things the community has done with InterMine resources. 
@@ -60,7 +60,7 @@ We expect to receive, as we did last year, lots of high quality applications. So
 - Our very in-the-works new ClojureScript UI. [Demo](http://bluegenes.apps.intermine.org/), [repo](https://github.com/intermine/bluegenes)
 - [Developer documentation](http://intermine.readthedocs.io/en/latest/)
 
-## Google links
+## Outreachy links
 
 - [The Outreachy Student guide](https://www.outreachy.org/docs/applicant/): A must read guide for applicants.
 - [The Outreachy internship guide](https://www.outreachy.org/docs/internship/): A must read guide for the selected interns.

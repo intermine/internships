@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /guidance/students-accepted/
-title: Advice for accepted students
+title: Advice for students accepted for GSoC and Outreachy
 ---
 
 First of all, welcome to InterMine! We're excited to have you working with us this year.
 
-We'll try to generally adhere to the [Google Manuals](https://developers.google.com/open-source/gsoc/resources/guide) to avoid repetition, but here are a few InterMine-specific guidelines for Google Summer of Code.
+You should go through the GSoC or Outreachy guide based on which program you are selected in.
+We'll try to generally adhere to the [Google Manuals](https://developers.google.com/open-source/gsoc/resources/guide) and [Outreachy Internship Guide](https://www.outreachy.org/docs/internship/) to avoid repetition, but here are a few InterMine-specific guidelines which apply for both Google Summer of Code and Outreachy.
 
 ## Communication
 
@@ -14,11 +15,13 @@ You'll establish a personal rhythm with your mentor, but please bear the followi
 
 ### Email
 
-All students and mentors should subscribe to our [InterMine GSoC public mailing list](https://lists.cam.ac.uk/mailman/listinfo/gen-intermine-gsoc-public). This is to ensure that we can effectively share announcements.
+All GSoC students and mentors should subscribe to our [InterMine GSoC public mailing list](https://lists.cam.ac.uk/mailman/listinfo/gen-intermine-gsoc-public). This is to ensure that we can effectively share announcements.
 
 ### Chat
 
-You can come hang at [chat.intermine.org](http://chat.intermine.org) in the #gsoc channel, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
+You can come hang at [chat.intermine.org](http://chat.intermine.org) in the #gsoc-and-outreachy channel, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
+
+For Outreachy, every two weeks, Outreachy interns, mentors, and alums will have an informal chat on the private Outreachy Zulip chat server. The goal of these chats is to encourage the interns to connect with each other. Read more about it [here](https://www.outreachy.org/docs/internship/#chats).
 
 ### Videoconferencing
 
@@ -55,9 +58,17 @@ From the [Google Manual](https://developers.google.com/open-source/gsoc/resource
 
 >GSoC needs an investment of about 30 hours a week. If you know in advance that you’ll need to take a couple of days of vacation/break during the Summer of Code, you should communicate that with your mentor beforehand and plan to make up for lost days.
 
+From the [Outreachy Internship Guide](https://www.outreachy.org/docs/internship/)
+
+>You should dedicate 40 hours per week to your project for at least 12 weeks of the Outreachy internship's 13 week duration. Please let your mentor know if you are going on a vacation and/or are sick due to which you cannot work on the project for a short period of time.
+
+>Rarely, interns work less than full-time, or cannot work for all 12 weeks. In that case, interns will need to arrange an internship extension with their mentor. Internships cannot be extended for more than 5 weeks.
+
 ## Outreach
 
 We'd love to host blog posts about yourself, the work you're planning to do, or work you have done. Equally, if you're tweeting or blogging on a personal blog and would like us to link to it / mention you / etc., poke your mentor and we'll give you a shout-out.
+
+For Outreachy, Interns are required to blog every two weeks about their internship. Read more about it [here](https://www.outreachy.org/docs/internship/#blog).
 
 ## Final Report
 
