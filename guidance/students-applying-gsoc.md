@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /guidance/students-applying/
+permalink: /guidance/students-applying-gsoc/
 title: Advice for students applying to InterMine
 ---
 
