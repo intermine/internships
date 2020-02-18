@@ -24,7 +24,7 @@ You can read more about how Google Summer of Code went in previous years with In
 
 ## Get started
 
-Review the application advice for students section, which has details on how to apply for [GSoC]((guidance/students-applying-gsoc/)) and [Outreachy](guidance/students-applying-outreachy/) with InterMine.
+Review the application advice for students section, which has details on how to apply for [GSoC](guidance/students-applying-gsoc/) and [Outreachy](guidance/students-applying-outreachy/) with InterMine.
 
 ## Contribute to InterMine! (outside of GSoC and Outreachy)
 
