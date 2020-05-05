@@ -13,10 +13,6 @@ We'll try to generally adhere to the [Google Manuals](https://developers.google.
 
 You'll establish a personal rhythm with your mentor, but please bear the following points in mind:
 
-### Email
-
-All GSoC students and mentors should subscribe to our [InterMine GSoC public mailing list](https://lists.cam.ac.uk/mailman/listinfo/gen-intermine-gsoc-public). This is to ensure that we can effectively share announcements.
-
 ### Chat
 
 You can come hang at [chat.intermine.org](http://chat.intermine.org) in the various project and outreachy channels, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
