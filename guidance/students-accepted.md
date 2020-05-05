@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /guidance/students-accepted/
-title: Advice for students accepted for GSoC and Outreachy
+permalink: /guidance/interns-accepted/
+title: Advice for interns accepted for GSoC and Outreachy
 ---
 
 First of all, welcome to InterMine! We're excited to have you working with us this year.
@@ -19,7 +19,7 @@ All GSoC students and mentors should subscribe to our [InterMine GSoC public ma
 
 ### Chat
 
-You can come hang at [chat.intermine.org](http://chat.intermine.org) in the #gsoc-and-outreachy channel, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
+You can come hang at [chat.intermine.org](http://chat.intermine.org) in the various project and outreachy channels, and feel free to ask for help in #support - but remember to make tickets or send emails for any big bugs or design decisions, as chat logs are transient.
 
 For Outreachy, every two weeks, Outreachy interns, mentors, and alums will have an informal chat on the private Outreachy Zulip chat server. The goal of these chats is to encourage the interns to connect with each other. Read more about it [here](https://www.outreachy.org/docs/internship/#chats).
 
@@ -64,6 +64,8 @@ From the [Outreachy Internship Guide](https://www.outreachy.org/docs/internship/
 
 >Rarely, interns work less than full-time, or cannot work for all 12 weeks. In that case, interns will need to arrange an internship extension with their mentor. Internships cannot be extended for more than 5 weeks.
 
+If you're affected by COVID-19 and have exams or other things going on, reducing your hours is fine, but always make sure your mentors know what to expect. 
+
 ## Outreach
 
 We'd love to host blog posts about yourself, the work you're planning to do, or work you have done. Equally, if you're tweeting or blogging on a personal blog and would like us to link to it / mention you / etc., poke your mentor and we'll give you a shout-out.
@@ -72,7 +74,7 @@ For Outreachy, Interns are required to blog every two weeks about their internsh
 
 ## Final Report
 
-Each student will present their project at the end of August at the InterMine Community Call - a friendly teleconference call attended by the InterMine community -- developers and biologists who use InterMine. The presentation will be limited to 5 minutes with a short time available for discussion after. Ideally this will be a live demonstration of your software project but can be slides or video demo instead. 
+Each student/intern will present their project at the end of August at the InterMine Community Call - a friendly teleconference call attended by the InterMine community -- developers and biologists who use InterMine. The presentation will be limited to 5 minutes with a short time available for discussion after. Ideally this will be a live demonstration of your project but can be slides or video demo instead. 
 
 Each student will also write up their project. This will take the form of a short blog post with the following sections:
 
@@ -90,4 +92,4 @@ Each student will also write up their project. This will take the form of a shor
   * If you could work on your project longer, what features would you like to see added?
   * What's left to do?
 
-This blog post will be "permanent" and will be used to submit to Google as your work product.
+This blog post will be "permanent" and for GSoC will be used to submit to Google as your work product.
