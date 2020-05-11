@@ -13,8 +13,8 @@ Once proposals have been finalised, applicant proposals will be graded based on 
 ## Project and Plan
 - Does it solve the problem we need solving? Does applicant clearly identify the problem?
 - Does it offer a sensible solution? 
-- Does it offer supporting evidence for technologies chosen, e.g. bootstrap. Sometimes a compare/contrast of different technologies considered can be helpful/.
-- Does the proposal have a realistic timeline?, and are deliverables correct and timely?
+- Does it offer supporting evidence for technologies chosen, e.g. bootstrap. Sometimes a compare/contrast of different technologies considered can be helpful.
+- Does the proposal have a realistic timeline, and are deliverables correct and timely?
 - Does the applicant have enough time in the week to carry our their plan? (30+ hours)
 - Bonus for "what if things go wrong planning", e.g. bonus features towards the end of the plan that can be removed if/when the bugs strike.
 - Nice bonus features in addition to the main project = good, ONLY unrelated 'bonus' features = bad.
