@@ -21,7 +21,7 @@ Once proposals have been finalised, applicant proposals will be graded based on 
 
 
 ## Team working skills
-- Can the applicant carry out tasks on their own over a three month period?
+- Can the applicant carry out tasks on their own over a 1.5 month period?
 - Clear evidence of communication skills
   - Lower points for gross overcommunication ("what should I name this variable?"), better if they quietly and competently get the job done but interact at appropriate times, e.g. InterMine bugs, sensible progress reports.
 - Is the applicant capable of following existing guidelines and instructions where appropriate?
