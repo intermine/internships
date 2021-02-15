@@ -8,7 +8,7 @@ permalink: /guidance/
 - [Advice on applying for GSoC with InterMine](students-applying-gsoc)
 - [Advice on applying for Outreachy with InterMine](students-applying-outreachy)
 - [Guidelines for accepted interns](interns-accepted)
-- [Proposal grading criteria](grading-criteria-2019.md)
+- [Proposal grading criteria](grading-criteria-2021.md)
 
 ## Mentors
 - [Guidance for mentors](mentors)
