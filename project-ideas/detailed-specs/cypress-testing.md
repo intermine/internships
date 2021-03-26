@@ -5,8 +5,6 @@ permalink: /project-ideas/2021/detailed-specs/cypress-testing
 tags: intermine, outreachy
 ---
 
-# Getting started with Cypress testing
-
 Cypress is a JavaScript testing framework used to run interaction and end-to-end tests in an automated browser environment.
 This is how we test the user interface [BlueGenes](https://github.com/intermine/bluegenes) which serves data from an InterMine server.
 
