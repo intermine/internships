@@ -1,3 +1,10 @@
+---
+layout: page
+title: Getting started with Cypress testing
+permalink: /project-ideas/2021/detailed-specs/cypress-testing
+tags: intermine, outreachy
+---
+
 # Getting started with Cypress testing
 
 Cypress is a JavaScript testing framework used to run interaction and end-to-end tests in an automated browser environment.
