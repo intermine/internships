@@ -34,7 +34,7 @@ so we recommend instead using Windows Subsystem for Linux and installing docker 
 - When selecting the Linux distro we recommend Ubuntu (use version 18.04 LTS if asked)
 
 Once you have installed WSL and a Linux distro, you should have a terminal window where you can enter commands. Try typing `uname`
-and press the `Enter` key, and it should return "Linux". If it does, you know you're in Linux and can skip to the [Linux](#Linux-and-WSL-users) section.
+and press the `Enter` key, and it should return "Linux". If it does, you know you're in Linux and can skip to the [Linux](#linux-and-wsl-users) section.
 
 ### Mac users
 
@@ -53,7 +53,7 @@ brew cask install docker
 brew install docker-compose openjdk@11 leiningen node python@3.7 git
 ```
 
-You should now have everything you need to build Biotestmine. Continue with the [Building Biotestmine](#Building-Biotestmine) section.
+You should now have everything you need to build Biotestmine. Continue with the [Building Biotestmine](#building-biotestmine) section.
 
 ### Linux and WSL users
 
@@ -71,7 +71,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 Follow **step 1** from:  
 https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04#step-1-%E2%80%94-installing-docker-compose
 
-Continue to the [Building Biotestmine](#Building-Biotestmine) section directly below.
+Continue to the [Building Biotestmine](#building-biotestmine) section directly below.
 
 ### Building Biotestmine
 
