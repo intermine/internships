@@ -59,7 +59,7 @@ Type the following commands to install dependencies:
 
 ```
 sudo apt update
-sudo apt install openjdk-11-jdk leiningen-clojure nodejs npm python3-pip git
+sudo apt install openjdk-11-jdk leiningen nodejs npm python3-pip git
 ```
 
 Follow **steps 1 and 2** from:  
