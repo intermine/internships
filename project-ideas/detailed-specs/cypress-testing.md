@@ -28,7 +28,7 @@ The software you'll be running uses docker to containerize the build process so 
 with using [Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/) for this yet, (you are welcome to give it a try)
 so we recommend instead using Windows Subsystem for Linux and installing docker inside your embedded Linux system.
 
-- Install WSL by following the Manual Installation Steps: [Install Windows Subsystem for Linux (WSL) on Windows 10 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+- Install WSL by following the Manual Installation Steps: [Install Windows Subsystem for Linux (WSL) on Windows 10 - Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - When selecting the Linux distro we recommend Ubuntu (use version 18.04 LTS if asked)
 
 Once you have installed WSL and a Linux distro, you should have a terminal window where you can enter commands. Try typing `uname`
@@ -62,10 +62,10 @@ sudo apt update
 sudo apt install openjdk-11-jdk leiningen nodejs npm python3-pip git xvfb libgtk2.0-0 libnotify-dev libgconf-2-4 libnss3 libxss1 libasound2
 ```
 
-Follow **steps 1 and 2** from: [How To Install and Use Docker on Ubuntu 18.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04#step-1-%E2%80%94-installing-docker)  
+Follow **steps 1 and 2** from: [How To Install and Use Docker on Ubuntu 18.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04#step-1-%E2%80%94-installing-docker)  
 *WARNING FOR WSL:* Replace the `sudo systemctl status docker` command with `sudo /etc/init.d/docker status`
 
-Follow **step 1** from: [How To Install Docker Compose on Ubuntu 18.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04#step-1-%E2%80%94-installing-docker-compose)
+Follow **step 1** from: [How To Install Docker Compose on Ubuntu 18.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04#step-1-%E2%80%94-installing-docker-compose)
 
 Continue to the [Building Biotestmine](#building-biotestmine) section directly below.
 
@@ -137,10 +137,10 @@ your preferred code editor. The rest of this section will contain links to onlin
 consult these resources, try to understand the existing tests, modify them and experiment with new tests, to build up your knowledge.
 
 This is quite a lengthy introduction, but you should at least skim it to become familiar with the concepts:  
-[Introduction to Cypress | Cypress Documentation](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress)
+[Introduction to Cypress - Cypress Documentation](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress)
 
 When you're writing Cypress testing code, you'll want to reference the API documentation to look up how to use specific features of the library:  
-[Table of Contents | Cypress Documentation](https://docs.cypress.io/api/table-of-contents)
+[Table of Contents - Cypress Documentation](https://docs.cypress.io/api/table-of-contents)
 
 ## Closing remarks
 
