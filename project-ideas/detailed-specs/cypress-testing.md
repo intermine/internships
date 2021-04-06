@@ -28,7 +28,7 @@ The software you'll be running uses docker to containerize the build process so 
 with using [Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/) for this yet, (you are welcome to give it a try)
 so we recommend instead using Windows Subsystem for Linux and installing docker inside your embedded Linux system.
 
-- Install WSL by following the Manual Installation Steps: https://docs.microsoft.com/en-us/windows/wsl/install-win10
+- Install WSL by following the Manual Installation Steps: [Install Windows Subsystem for Linux (WSL) on Windows 10 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - When selecting the Linux distro we recommend Ubuntu (use version 18.04 LTS if asked)
 
 Once you have installed WSL and a Linux distro, you should have a terminal window where you can enter commands. Try typing `uname`
@@ -62,12 +62,10 @@ sudo apt update
 sudo apt install openjdk-11-jdk leiningen nodejs npm python3-pip git xvfb libgtk2.0-0 libnotify-dev libgconf-2-4 libnss3 libxss1 libasound2
 ```
 
-Follow **steps 1 and 2** from:  
-https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04#step-1-%E2%80%94-installing-docker  
+Follow **steps 1 and 2** from: [How To Install and Use Docker on Ubuntu 18.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04#step-1-%E2%80%94-installing-docker)  
 *WARNING FOR WSL:* Replace the `sudo systemctl status docker` command with `sudo /etc/init.d/docker status`
 
-Follow **step 1** from:  
-https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04#step-1-%E2%80%94-installing-docker-compose
+Follow **step 1** from: [How To Install Docker Compose on Ubuntu 18.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04#step-1-%E2%80%94-installing-docker-compose)
 
 Continue to the [Building Biotestmine](#building-biotestmine) section directly below.
 
@@ -82,7 +80,7 @@ intermine_boot start local --build-images --build-im --im-branch bluegenes
 ```
 
 The build process will require the downloading of many dependencies, some of which may time out if you experience network issues.
-If it succeeds, you should be able to access http://localhost:9999/biotestmine in your browser and see the old user interface
+If it succeeds, you should be able to access [http://localhost:9999/biotestmine](http://localhost:9999/biotestmine) in your browser and see the old user interface
 of InterMine (which BlueGenes is set to replace). If the output doesn't seem right, or you can't access Biotestmine in your browser,
 retry by rerunning the second command above.
 
@@ -103,7 +101,7 @@ BLUEGENES_DEFAULT_SERVICE_ROOT="http://localhost:9999/biotestmine" lein prod
 ```
 
 The first time you run `lein prod`, it will download all its dependencies which should result in many lines of output. Once everything has been
-downloaded, it will start building BlueGenes and finally run the server locally. It will tell you to open http://localhost:5000/ once it's ready.
+downloaded, it will start building BlueGenes and finally run the server locally. It will tell you to open [http://localhost:5000/](http://localhost:5000/) once it's ready.
 When you open that URL in your browser, you should see BlueGenes.
 
 **Note:** BlueGenes will continue to run in the *foreground* until you either close the window, or input *Ctrl+C*. You should keep it running
@@ -139,10 +137,10 @@ your preferred code editor. The rest of this section will contain links to onlin
 consult these resources, try to understand the existing tests, modify them and experiment with new tests, to build up your knowledge.
 
 This is quite a lengthy introduction, but you should at least skim it to become familiar with the concepts:  
-https://docs.cypress.io/guides/core-concepts/introduction-to-cypress
+[Introduction to Cypress | Cypress Documentation](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress)
 
 When you're writing Cypress testing code, you'll want to reference the API documentation to look up how to use specific features of the library:  
-https://docs.cypress.io/api/table-of-contents
+[Table of Contents | Cypress Documentation](https://docs.cypress.io/api/table-of-contents)
 
 ## Closing remarks
 
