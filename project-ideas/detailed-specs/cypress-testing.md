@@ -91,16 +91,16 @@ below to succeed.
 ## Step 2: Starting BlueGenes
 
 Well done reaching this step! The hardest part is finally over and the remaining steps should be a breeze in comparison. Start
-BlueGenes by running the following commands:
+BlueGenes connected to your local Biotestmine by running the following commands:
 
 ```
 git clone https://github.com/intermine/bluegenes.git
 cd bluegenes
 npm install
-BLUEGENES_DEFAULT_SERVICE_ROOT="http://localhost:9999/biotestmine" lein prod
+lein biotestmine
 ```
 
-The first time you run `lein prod`, it will download all its dependencies which should result in many lines of output. Once everything has been
+The first time you run lein, it will download all its dependencies which should result in many lines of output. Once everything has been
 downloaded, it will start building BlueGenes and finally run the server locally. It will tell you to open [http://localhost:5000/](http://localhost:5000/) once it's ready.
 When you open that URL in your browser, you should see BlueGenes.
 
