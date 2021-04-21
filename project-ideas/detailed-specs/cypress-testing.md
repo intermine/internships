@@ -88,6 +88,33 @@ retry by rerunning the second command above.
 you'll have to run the same *start* command again to build it from scratch. You will need to have Biotestmine running for the steps
 below to succeed.
 
+**Note:** Incase you run into issues during the build under building intermine_builder  ``` RUN cpan -i App::cpanminus ```  you are advised to make edits to
+the "intermine_boot/docker-intermine-gradle/intermine_builder/intermine_builder.Dockerfile" changing the first line to ` FROM alpine:3.12.5 `.
+You can accomplish this by: 
+( Make sure to install virtualenv if you haven't already   )
+
+```
+$ git submodule update --init
+$ virtualenv -p python3 venv
+$ . venv/bin/activate
+$ pip install --editable .
+# Change the source code and call intermine_boot however you want.
+$ intermine_boot
+# Exit virtualenv when done.
+$ deactivate
+```
+**TIP:** Make sure to delete your old containers before you build new ones when you run ` intermine_boot start local --build-images --build-im --im-branch bluegenes ` 
+so that you don't run into issues where a service is used by another container. Do this by first stopping and then removing the containers with
+
+```
+$ docker stop $(docker ps -aq)
+
+$ docker rm $(docker ps -a -q)
+
+```
+Refer [here](https://docs.docker.com/engine/reference/commandline/cli/) for more insight on docker commands
+
+
 ## Step 2: Starting BlueGenes
 
 Well done reaching this step! The hardest part is finally over and the remaining steps should be a breeze in comparison. Start
