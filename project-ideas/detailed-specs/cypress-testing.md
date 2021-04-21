@@ -89,8 +89,9 @@ you'll have to run the same *start* command again to build it from scratch. You 
 below to succeed.
 
 **Note:** Incase you run into issues during the build under building intermine_builder  ``` RUN cpan -i App::cpanminus ```  you are advised to make edits to
-the "intermine_boot/docker-intermine-gradle/intermine_builder/intermine_builder.Dockerfile" changing the first line to ` FROM alpine:3.12.5 `.
-You can accomplish this by: 
+the "intermine_boot/docker-intermine-gradle/intermine_builder/intermine_builder.Dockerfile" found within the intermine_boot repository, 
+changing the first line to ` FROM alpine:3.12.5 `.
+You can accomplish this by cloning the [intermine_boot repository](https://github.com/intermine/intermine_boot) within a virtual environment and going through the commands below: 
 ( Make sure to install virtualenv if you haven't already   )
 
 ```
@@ -107,12 +108,9 @@ $ deactivate
 so that you don't run into issues where a service is used by another container. Do this by first stopping and then removing the containers with
 
 ```
-$ docker stop $(docker ps -aq)
-
-$ docker rm $(docker ps -a -q)
+$ intermine_boot stop local
 
 ```
-Refer [here](https://docs.docker.com/engine/reference/commandline/cli/) for more insight on docker commands
 
 
 ## Step 2: Starting BlueGenes
