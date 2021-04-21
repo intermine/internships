@@ -24,9 +24,7 @@ setup process to be challenging, and don't give up! Start at the section below a
 
 ### Windows users
 
-The software you'll be running uses docker to containerize the build process so it doesn't mess with your system. We haven't had any luck
-with using [Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/) for this yet, (you are welcome to give it a try)
-so we recommend instead using Windows Subsystem for Linux and installing docker inside your embedded Linux system.
+The software you'll be running uses docker to containerize the build process so it doesn't mess with your system. We recommend Windows Subsystem for Linux and using docker inside your embedded Linux system.
 
 - Install WSL by following the Manual Installation Steps: [Install Windows Subsystem for Linux (WSL) on Windows 10 - Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - When selecting the Linux distro we recommend Ubuntu (use version 18.04 LTS if asked)
