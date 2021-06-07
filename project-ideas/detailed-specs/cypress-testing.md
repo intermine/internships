@@ -103,7 +103,7 @@ and aims to automate building InterMine servers with a single command. Run the c
 
 ```
 pip install intermine_boot
-intermine_boot start local --build-images --build-im --im-branch bluegenes
+intermine_boot start local
 ```
 
 The build process will require the downloading of many dependencies, some of which may time out if you experience network issues.
@@ -111,34 +111,9 @@ If it succeeds, you should be able to access [http://localhost:9999/biotestmine]
 of InterMine (which BlueGenes is set to replace). If the output doesn't seem right, or you can't access Biotestmine in your browser,
 retry by rerunning the second command above.
 
-**Note:** Biotestmine will continue running in the background until you stop it with `intermine_boot stop local`. If you stop it,
+**Note:** Biotestmine will continue running in the background until you stop it with `intermine_boot stop local` (you should also run this after failures to clean up the containers). If you stop it,
 you'll have to run the same *start* command again to build it from scratch. You will need to have Biotestmine running for the steps
 below to succeed.
-
-**Note:** Incase you run into issues during the build under building intermine_builder  ``` RUN cpan -i App::cpanminus ```  you are advised to make edits to
-the "intermine_boot/docker-intermine-gradle/intermine_builder/intermine_builder.Dockerfile" found within the intermine_boot repository, 
-changing the first line to ` FROM alpine:3.12.5 `.
-You can accomplish this by cloning the [intermine_boot repository](https://github.com/intermine/intermine_boot) within a virtual environment and going through the commands below: 
-( Make sure to install virtualenv if you haven't already   )
-
-```
-$ git submodule update --init
-$ virtualenv -p python3 venv
-$ . venv/bin/activate
-$ pip install --editable .
-# Change the source code and call intermine_boot however you want.
-$ intermine_boot
-# Exit virtualenv when done.
-$ deactivate
-```
-**TIP:** Make sure to delete your old containers before you build new ones when you run ` intermine_boot start local --build-images --build-im --im-branch bluegenes ` 
-so that you don't run into issues where a service is used by another container. Do this by first stopping and then removing the containers with
-
-```
-$ intermine_boot stop local
-
-```
-
 
 ## Step 2: Starting BlueGenes
 
