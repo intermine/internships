@@ -30,7 +30,17 @@ The software you'll be running uses docker to containerize the build process so 
 - When selecting the Linux distro we recommend Ubuntu (use version 18.04 LTS if asked)
 
 Once you have installed WSL and a Linux distro, you should have a terminal window where you can enter commands. Try typing `uname`
-and press the `Enter` key, and it should return "Linux". If it does, you know you're in Linux and can skip to the [Linux](#linux-and-wsl-users) section.
+and press the `Enter` key, and it should return "Linux". While you're in the terminal, you should input the following commands to install dependencies we'll need later:
+
+```
+sudo apt update
+sudo apt install openjdk-11-jdk leiningen nodejs npm python3-pip git xvfb libgtk2.0-0 libnotify-dev libgconf-2-4 libnss3 libxss1 libasound2
+```
+
+Finally, you will need to install Docker desktop on your Windows machine and configure it for WSL 2. This can be done by following these steps: 
+[Docker Desktop WSL 2 backend | Docker Documentation](https://docs.docker.com/docker-for-windows/wsl/)
+
+You should now have everything you need to build Biotestmine. Continue with the [Building Biotestmine](#building-biotestmine) section.
 
 ### Mac users
 
@@ -51,7 +61,7 @@ brew install docker-compose openjdk@11 leiningen node python@3.7 git
 
 You should now have everything you need to build Biotestmine. Continue with the [Building Biotestmine](#building-biotestmine) section.
 
-### Linux and WSL users
+### Linux users
 
 Type the following commands to install dependencies:
 
@@ -61,36 +71,6 @@ sudo apt install openjdk-11-jdk leiningen nodejs npm python3-pip git xvfb libgtk
 ```
 
 Follow **steps 1 and 2** from: [How To Install and Use Docker on Ubuntu 18.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04#step-1-%E2%80%94-installing-docker)  
-*WARNING FOR WSL:* Replace the `sudo systemctl status docker` command with `sudo /etc/init.d/docker status`
-
-*NOTE FOR WSL:* When you run the command in the above warning, you are most likely going to receive output stating that docker daemon is not running.
-A work around for this is installing Docker desktop on your windows machine and setting up WSL 2 backend. This can be done by following these steps:
-[ Docker Desktop WSL 2 backend - Docker docs](https://docs.docker.com/docker-for-windows/wsl/). 
-Verify that docker works by running ` docker run hello-world ` , if your installation works well expect the following output 
-``` 
-$ docker run hello-world
-
-Hello from Docker!
-This message shows that your installation appears to be working correctly.
-
-To generate this message, Docker took the following steps:
- 1. The Docker client contacted the Docker daemon.
- 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
-    (amd64)
- 3. The Docker daemon created a new container from that image which runs the
-    executable that produces the output you are currently reading.
- 4. The Docker daemon streamed that output to the Docker client, which sent it
-    to your terminal.
-
-To try something more ambitious, you can run an Ubuntu container with:
- $ docker run -it ubuntu bash
-
-Share images, automate workflows, and more with a free Docker ID:
- https://hub.docker.com/
-
-For more examples and ideas, visit:
- https://docs.docker.com/get-started/
-```
 
 Follow **step 1** from: [How To Install Docker Compose on Ubuntu 18.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04#step-1-%E2%80%94-installing-docker-compose)
 
