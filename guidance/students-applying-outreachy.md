@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /guidance/students-applying-outreachy/
-title: Advice for students applying to InterMine
+title: Advice for students applying to InterMine through Outreachy
 ---
 
 Outreachy differs from GSoC in many aspects. Unlike GSoC, Outreachy participants can contribute in design work, documentation, community management, marketing, etc. Also, Outreachy applicants don't have to be students, and could be graduates, people returning to work after a break, or perhaps something else.
