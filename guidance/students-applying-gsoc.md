@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /guidance/students-applying-gsoc/
-title: Advice for students applying to InterMine
+title: Advice for students applying to InterMine through GSoC
 ---
 
 ## Select a project
